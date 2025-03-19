@@ -8,13 +8,9 @@ Mon objectif : devenir un pentester expert, capable de tester et sécuriser des 
 ---
 
 ## 📜 Certifications en cours  
-- 📌 **CompTIA A+**  
-- 📌 **CompTIA Security+**  
+- 📌 **CEH**    
 - 📌 **CCNA (Cisco Certified Network Associate)**  
-- 📌 **PNPT (Practical Network Penetration Tester)**  
-- 📌 **eJPT (eLearnSecurity Junior Penetration Tester)**  
-- 📌 **CPTS (Certified Penetration Testing Specialist)**  
-
+ 
 ---
 
 ## 🧰 Compétences techniques  
@@ -22,24 +18,6 @@ Mon objectif : devenir un pentester expert, capable de tester et sécuriser des 
 - 🛠️ Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark, Responder, Hydra  
 - 💾 Scripting : Python, Bash, PowerShell  
 - 🔗 Réseaux : TCP/IP, VLAN, VPN, Firewall, Protocoles sécurisés  
-
----
-
-## 🗂 Projets de Pentesting  
-### 1. Web Pentesting  
-- [BlogX - Audit de Sécurité](https://github.com/Boni/Web_Pentesting/BlogX_Testing)  
-- [Site E-Commerce - Injection SQL et XSS](https://github.com/Boni/Web_Pentesting/E-Commerce_Testing)  
-
-### 2. Pentesting Réseau  
-- [Audit Interne - Réseau Local](https://github.com/Boni/Network_Pentesting/Internal_Network_Lab)  
-- [Test WiFi - WPA2 Cracking](https://github.com/Boni/Network_Pentesting/WiFi_Testing)  
-
-### 3. Active Directory  
-- [AD Lab1 - Escalade de Privilèges](https://github.com/Boni/Active_Directory/AD_Lab1)  
-- [AD Lab2 - Attaques Pass-the-Hash](https://github.com/Boni/Active_Directory/AD_Lab2)  
-
-### 4. Outils et Scripts  
-- [Scripts Python et Bash](https://github.com/Boni/Tools_And_Scripts)  
 
 ---
 
@@ -51,9 +29,8 @@ Mon objectif : devenir un pentester expert, capable de tester et sécuriser des 
 ---
 
 ## 🔗 Me contacter  
-📧 Email : [TonEmail@example.com](mailto:TonEmail@example.com)  
-💼 LinkedIn : [TonLinkedIn](https://linkedin.com/in/TonProfil)  
-🌐 Blog : [TonSiteWeb](https://TonSiteWeb.com)  
+📧 Email : [bonih.yapo@gmail.com](mailto:bonih.yapo@gmail.com)  
+💼 LinkedIn : [Boni Yapo](https://www.linkedin.com/in/boni-yapo-993484350)  
 
 ---
 
