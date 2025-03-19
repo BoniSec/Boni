@@ -1,8 +1,9 @@
-# 💼 Boni - Portfolio Pentesting
+# 🛡️ Boni's Pentest Portfolio 
 
-## 👋 À propos de moi  
-Bienvenue sur mon portfolio GitHub dédié au Pentesting et à la cybersécurité.  
-Je suis passionné par le test d'intrusion, la sécurisation des systèmes, et le hacking éthique.  
+Bienvenue sur mon portfolio de tests d'intrusion et de cybersécurité. Ici, je partage mes projets, rapports de pentest, scripts d'automatisation et write-ups de challenges CTF.  
+  
+## 📌 Qui suis-je ?  
+Je suis un **Pentester et formateur en sécurité informatique**, passionné par le hacking éthique et l'amélioration de la sécurité des systèmes. Je me spécialise dans le **pentesting web, réseau et Active Directory**.   
 Mon objectif : devenir un pentester expert, capable de tester et sécuriser des infrastructures variées.
 
 ---
@@ -33,5 +34,7 @@ Mon objectif : devenir un pentester expert, capable de tester et sécuriser des 
 💼 LinkedIn : [Boni Yapo](https://www.linkedin.com/in/boni-yapo-993484350)  
 
 ---
+
+💡 *Toujours en quête de nouvelles opportunités en pentesting et cybersécurité !* 
 
 ⚠️ **Disclaimer** : Tous les projets sont réalisés dans un cadre légal et éthique. Aucun test d'intrusion illégal n’est partagé ici.  
